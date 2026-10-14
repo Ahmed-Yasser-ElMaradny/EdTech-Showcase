@@ -2,7 +2,9 @@
 
 A real-world Learning Management System (LMS) built for private teachers: a **student platform** (Android + Web), an **admin app** (Android), and an **SEO-friendly landing page**. It includes a secure exam system with anti-cheat, protected video and PDF content, a virtual credit system with redeemable codes, and a full admin panel for managing students.
 
-> **Note:** This repository is a showcase. Full source code is available on request (see [Contact](#contact)).
+Note: This repository is a showcase. Full source code is available on request (see Contact).
+
+🚧 Under active development: the platform is still being developed, so some features may be incomplete or contain bugs. See Project status.
 
 ---
 
