@@ -33,6 +33,14 @@ The demo runs on a separate test environment with sample data. You can add, edit
 |---|---|
 | [![Student demo](student-demo-thumbnail.png)](https://youtube.com/shorts/b3CM0iom7xA?si=uQ5DKtjUHKmarnJY) | [![Admin demo](admin-demo-thumbnail.png)](https://youtu.be/HnLhT63xntQ?si=996q_lbj1xKwO6aZ) |
 
+Project status
+
+🚧 This platform is still under active development. Some features may be missing, incomplete, or contain bugs, and the demo environment may change or reset without notice.
+
+If you notice anything missing, broken, or that could be improved, please let me know so I can fix and develop it. Feedback is very welcome, via email, LinkedIn, or by opening an Issue on this repository.
+
+The software is provided "as is", without any warranty (see License).
+
 ---
 
 ## Features
