@@ -10,19 +10,18 @@ A real-world Learning Management System (LMS) built for private teachers: a **st
 
 | | |
 |---|---|
-| 📱 **Student app (APK)** | [Download from Releases](https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Showcase/releases/download/v1.0/AdminApp.apk) |
-| 🛠️ **Admin app (APK)** | [Download from Releases](https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Platform/releases) |
-| 🌐 **Student platform (Web)** | [LIVE_DEMO_LINK](https://example.com) |
-| 🔎 **Teacher landing page** | [LANDING_PAGE_LINK](https://example.com) |
+| 📱 **Student app (APK)** | [Download from Releases](https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Showcase/releases/download/v1.0/StudentHub.apk) |
+| 🛠️ **Admin app (APK)** | [Download from Releases](https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Showcase/releases/download/v1.0/Admin.App.apk) |
+| 🔎 **Teacher Platform (Web) -> THIS IS A REAL PRODUCT I GOT MONEY FROM IT** | [PAGE_LINK](https://share.google/GMvUlmbVPHTMcKJbN) |
 
 ### Demo accounts
 
 | Role | Email | Password |
 |---|---|---|
-| Student | `student@demo.com` | `DEMO_PASSWORD` |
-| Admin / Secretary | `admin@demo.com` | `DEMO_PASSWORD` |
+| Student | `Create Your Own Email ` | `Create Your Own Password ` | Use Sign Up To Create Your Student Account
+| Admin / Secretary | `admin@demo.com` | `Demo123` |
 
-The demo runs on a separate test environment with sample data. You can add, edit, and delete freely. The data is reset periodically.
+The demo runs on a separate test environment with sample data. You can add, edit, and delete freely.
 
 ---
 
@@ -30,7 +29,7 @@ The demo runs on a separate test environment with sample data. You can add, edit
 
 | Student app | Admin app |
 |---|---|
-| [![Student demo](docs/student-demo-thumbnail.png)](STUDENT_VIDEO_LINK) | [![Admin demo](docs/admin-demo-thumbnail.png)](ADMIN_VIDEO_LINK) |
+| [![Student demo](student-demo-thumbnail.png)](https://youtube.com/shorts/b3CM0iom7xA?si=uQ5DKtjUHKmarnJY) | [![Admin demo](admin-demo-thumbnail.png)](https://youtu.be/HnLhT63xntQ?si=996q_lbj1xKwO6aZ) |
 
 ---
 
@@ -39,6 +38,7 @@ The demo runs on a separate test environment with sample data. You can add, edit
 ### Student platform (Android & Web)
 - **Exam system**
   - Questions with four answers, one correct answer, and an optional image.
+  - Random question pool: the teacher sets how many questions each student gets (for example 20) and can add a larger bank (for example      50). Every student receives a different random set of questions from the pool.
   - Countdown timer: when time ends, the student's answers are submitted automatically (unanswered questions stay empty).
   - Result shown right after submission.
 - **Anti-cheat**
@@ -46,7 +46,7 @@ The demo runs on a separate test environment with sample data. You can add, edit
   - First violation: the student is flagged and gets one final attempt. Second violation: the exam is locked and the student is marked as a cheater in the system.
 - **Content protection**
   - Custom video player (playback speed, fullscreen) with YouTube integration.
-  - PDF handouts rendered page-by-page, so the original file is never exposed.
+  - PDF handouts rendered page-by-page, so the original file is never exposed (in progress).
   - Moving watermark (user name and email) over both video and PDF screens.
   - Android: `FLAG_SECURE` blocks screenshots and screen recording.
   - Web: HTML5 Canvas rendering with right-click and inspect disabled.
@@ -58,7 +58,7 @@ The demo runs on a separate test environment with sample data. You can add, edit
 - Upload and manage videos, lessons, and exams (add / edit / delete).
 - Live streaming to YouTube from the app.
 - Questions can have an optional image. It is compressed on-device (Compressor) before uploading to Cloudinary to reduce storage costs.
-- **Secretary panel**
+- **Secretary panel ( in progress )**
   - Search students by ID, name, or email.
   - Edit any student's data manually and block / unblock accounts.
   - Per-exam reports: who submitted and each student's status (submitted, cheater, and so on).
