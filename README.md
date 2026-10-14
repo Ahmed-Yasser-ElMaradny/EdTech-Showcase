@@ -10,7 +10,7 @@ A real-world Learning Management System (LMS) built for private teachers: a **st
 
 | | |
 |---|---|
-| 📱 **Student app (APK)** | [Download from Releases](https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Platform/releases) |
+| 📱 **Student app (APK)** | [Download from Releases](https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Showcase/releases/download/v1.0/AdminApp.apk) |
 | 🛠️ **Admin app (APK)** | [Download from Releases](https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Platform/releases) |
 | 🌐 **Student platform (Web)** | [LIVE_DEMO_LINK](https://example.com) |
 | 🔎 **Teacher landing page** | [LANDING_PAGE_LINK](https://example.com) |
