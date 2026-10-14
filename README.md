@@ -14,7 +14,7 @@ Note: This repository is a showcase. Full source code is available on request (s
 |---|---|
 | 📱 **Student app (APK)** | [Download from Releases](https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Showcase/releases/download/v1.0/StudentHub.apk) |
 | 🛠️ **Admin app (APK)** | [Download from Releases](https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Showcase/releases/download/v1.0/Admin.App.apk) |
-| 🔎 **Teacher Platform (Web) -> THIS IS A REAL PRODUCT I GOT MONEY FROM IT** | [PAGE_LINK](https://share.google/GMvUlmbVPHTMcKJbN) |
+| 🔎 **Teacher Platform (Web) -> Live production product used by a real teacher** | [PAGE_LINK](https://share.google/GMvUlmbVPHTMcKJbN) |
 
 ### Demo accounts
 
@@ -33,7 +33,7 @@ The demo runs on a separate test environment with sample data. You can add, edit
 |---|---|
 | [![Student demo](student-demo-thumbnail.png)](https://youtube.com/shorts/b3CM0iom7xA?si=uQ5DKtjUHKmarnJY) | [![Admin demo](admin-demo-thumbnail.png)](https://youtu.be/HnLhT63xntQ?si=996q_lbj1xKwO6aZ) |
 
-Project status
+## Project status
 
 🚧 This platform is still under active development. Some features may be missing, incomplete, or contain bugs, and the demo environment may change or reset without notice.
 
